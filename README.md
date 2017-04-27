@@ -1,2 +1,2 @@
-# Machine-Learning-class-exercises-coursera-
+# Machine-Learning-coursera-exercises
 Machine Learning class (Stanford - coursera) programming assignments
